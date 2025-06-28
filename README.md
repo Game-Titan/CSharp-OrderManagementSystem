@@ -35,4 +35,4 @@ Feel free to suggest improvements or enhancements by opening issues or submittin
 
 ## License
 
-[Remember to add your chosen license here, such as the MIT License, once you've created the LICENSE file in your repository.]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
