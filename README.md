@@ -36,3 +36,4 @@ Feel free to suggest improvements or enhancements by opening issues or submittin
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
